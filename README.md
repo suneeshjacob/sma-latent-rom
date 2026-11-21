@@ -2,9 +2,9 @@
 
 Code accompanying the paper
 
-> A. S. Jacob, Santhosh N, S. R. Pandey and R. Datta, *What makes latent reduced-order models
+> A. S. Jacob, S. Nagulan, S. R. Pandey and R. Datta, *What makes latent reduced-order models
 > work for hysteretic shape memory alloy actuators? Dynamics, re-projection and state closure*,
-> submitted to the Journal of Intelligent Material Systems and Structures.
+> manuscript submitted for publication.
 
 The repository contains the one-dimensional simulator of a thermally driven SMA wire–spring
 actuator with partial phase transformations (the full-order model, FOM), the latent
