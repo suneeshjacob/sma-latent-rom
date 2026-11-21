@@ -10,9 +10,10 @@ authors:
     given-names: Akkarapakam Suneesh
     affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India"
     orcid: "https://orcid.org/0000-0002-9855-9368"
-  - family-names: "N"
+  - family-names: Nagulan
     given-names: Santhosh
     affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India"
+    orcid: "https://orcid.org/0000-0002-9952-1337"
   - family-names: Pandey
     given-names: Shree Ram
     affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Kanpur, India"
@@ -27,4 +28,3 @@ keywords:
   - autoencoder
   - proper orthogonal decomposition
   - hysteresis
-
