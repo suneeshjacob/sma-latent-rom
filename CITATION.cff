@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software archive."
+title: "Latent reduced-order models for hysteretic SMA wire-spring actuators: code"
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/suneeshjacob/sma-latent-rom"
+authors:
+  - family-names: Jacob
+    given-names: Akkarapakam Suneesh
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India"
+    orcid: "https://orcid.org/0000-0002-9855-9368"
+  - family-names: "N"
+    given-names: Santhosh
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India"
+  - family-names: Pandey
+    given-names: Shree Ram
+    affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Kanpur, India"
+    orcid: "https://orcid.org/0000-0003-2422-2006"
+  - family-names: Datta
+    given-names: Rituparna
+    affiliation: "Cognizant AI Lab, Bengaluru, India"
+    orcid: "https://orcid.org/0000-0003-3816-2438"
+keywords:
+  - shape memory alloy
+  - reduced-order model
+  - autoencoder
+  - proper orthogonal decomposition
+  - hysteresis
+preferred-citation:
+  type: article
+  title: "What makes latent reduced-order models work for hysteretic shape memory alloy actuators? Dynamics, re-projection and state closure"
+  authors:
+    - family-names: Jacob
+      given-names: Akkarapakam Suneesh
+    - family-names: "N"
+      given-names: Santhosh
+    - family-names: Pandey
+      given-names: Shree Ram
+    - family-names: Datta
+      given-names: Rituparna
+  journal: "Journal of Intelligent Material Systems and Structures"
+  year: 2026
+  notes: "Submitted"
