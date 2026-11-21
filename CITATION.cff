@@ -27,18 +27,4 @@ keywords:
   - autoencoder
   - proper orthogonal decomposition
   - hysteresis
-preferred-citation:
-  type: article
-  title: "What makes latent reduced-order models work for hysteretic shape memory alloy actuators? Dynamics, re-projection and state closure"
-  authors:
-    - family-names: Jacob
-      given-names: Akkarapakam Suneesh
-    - family-names: "N"
-      given-names: Santhosh
-    - family-names: Pandey
-      given-names: Shree Ram
-    - family-names: Datta
-      given-names: Rituparna
-  journal: "Journal of Intelligent Material Systems and Structures"
-  year: 2026
-  notes: "Submitted"
+
