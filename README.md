@@ -1,5 +1,7 @@
 # Latent reduced-order models for hysteretic SMA wire–spring actuators
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24421134.svg)](https://doi.org/10.5281/zenodo.24421134)
+
 Code accompanying the paper
 
 > A. S. Jacob, S. Nagulan, S. R. Pandey and R. Datta, *What makes latent reduced-order models

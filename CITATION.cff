@@ -5,6 +5,10 @@ version: 1.0.0
 date-released: 2026-11-21
 license: MIT
 repository-code: "https://github.com/suneeshjacob/sma-latent-rom"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24421134"
+    description: "Zenodo archive of version 1.0.0"
 authors:
   - family-names: Jacob
     given-names: Akkarapakam Suneesh
